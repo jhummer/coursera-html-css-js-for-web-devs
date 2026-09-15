@@ -5,3 +5,7 @@ The Coursera repository
 Start local dev server using browser-sync:
 
 `browser-sync start --server -- directory --files "*"`
+
+## External tools:
+
+https://jsfiddle.net
