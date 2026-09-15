@@ -4,4 +4,4 @@ The Coursera repository
 ## Local Dev
 Start local dev server using browser-sync:
 
-`browser-sync start --server -- directory --files "*"
+`browser-sync start --server -- directory --files "*"`
